@@ -1,6 +1,6 @@
 # Taxi_rides_EDA_SQL_S6
 
-# README: Taxi Rides Data Analysis and Hypothesis Testing
+# Taxi Rides Data Analysis and Hypothesis Testing
 
 ---
 
